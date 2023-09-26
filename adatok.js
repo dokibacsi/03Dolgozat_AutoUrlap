@@ -27,3 +27,21 @@ export const TODOLIST2 = [
     },
     { tevekenyseg: "kész dokumentáció", hatarido: "2024.04.15" }
 ];
+
+export const AUTOLITA = [{
+    rendszam: "TPR-231",
+    tipus: "Volkswagen Golf"
+},
+{
+    rendszam: "PKS-976",
+    tipus: "Skoda Fabia"
+},
+{
+    rendszam: "JUE-145",
+    tipus: "Fiat Panda"
+},
+{
+    rendszam: "PHP-923",
+    tipus: "Chevrolet Lacetti SW"
+}
+]
